@@ -1,4 +1,4 @@
-# Redux Modül Projesi: Film İzleme Listesi
+n# Redux Modül Projesi: Film İzleme Listesi
 
 Bu proje, öğrendiğiniz redux kavram ve yöntemlerini uygulayacağınız, logger middlewarei ile redux adımlarını takip edeceğiniz küçük bir film izleme listesi oluşturma projesidir.
 
